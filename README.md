@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nick250010
 - 👀 I’m interested in javaskript,python,c++
-- 🌱 I’m currently learning javaskript
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
